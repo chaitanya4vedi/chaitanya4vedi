@@ -5,7 +5,7 @@ Social Media
 
 
 - 🔭 I’m currently working on <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 - 👯 I’m looking to collaborate on ![N|Solid](https://img.shields.io/badge/Web-Development%20-%20%20brightgreen)
 - 🤔 I’m looking for help with ![N|Solid](https://img.shields.io/badge/Software-Development%20-%20%232e4053%20)
 
