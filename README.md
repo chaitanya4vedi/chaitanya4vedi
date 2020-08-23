@@ -1,6 +1,5 @@
 ### Hi there 👋 , I am Chaitanya
 
-Social Media
 ![Twitter URL](https://img.shields.io/twitter/url?color=1DA1F2&label=Follow%20%40chaitanya4vedi&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fchaitanya4vedi) ![Twitter URL](https://img.shields.io/twitter/url?label=facebook&logo=Facebook&url=https%3A%2F%2Fwww.facebook.com%2Fchaitanya4vedi) ![Twitter URL](https://img.shields.io/twitter/url?label=instagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fchaitanya4vedi%2F) ![Twitter URL](https://img.shields.io/twitter/url?label=Connect&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchaitanya4vedi%2F) [![GitHub followers](https://img.shields.io/github/followers/chaitanya4vedi.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/chaitanya4vedi?tab=followers)
 
 
