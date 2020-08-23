@@ -2,9 +2,9 @@
 <!-- Twitter icon -->
 <a href="https://www.twitter.com/chaitanya4vedi"><img src="https://img.icons8.com/color/64/000000/twitter.png"/></a> <!-- Facebook icon --> <a href="https://www.com/facebook.com/chaitanya4vedi"><img src="https://img.icons8.com/color/64/000000/facebook-new.png"/></a> <!-- Instagram icon --> <a href="https://www.instagram.com/chaitanya4vedi"><img src="https://img.icons8.com/color/64/000000/instagram-new.png"/></a> <!-- Linkedin Icon --> <a href="https://www.linkedin.com/in/chaitanya4vedi"><img src="https://img.icons8.com/color/64/000000/linkedin.png"/></a>
 
-- 🔭 I’m currently working on <br> <img src="https://img.icons8.com/color/96/000000/django.png"/> <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/> <img src="https://img.icons8.com/ios-glyphs/80/000000/react.png"/>
+- 🔭 I’m currently working on <br> <img src="https://img.icons8.com/color/96/000000/django.png"/> <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/> <img src="https://img.icons8.com/officexs/100/000000/react.png"/>
 
-- 🌱 I’m currently learning <br><img src="https://img.icons8.com/ios-glyphs/80/000000/react.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
+- 🌱 I’m currently learning <br><img src="https://img.icons8.com/officexs/100/000000/react.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
 
 - 👯 I’m looking to collaborate on ![N|Solid](https://img.shields.io/badge/Web-Development%20-%20%20brightgreen)
 
