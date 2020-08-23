@@ -12,11 +12,11 @@
 - 😄 Pronouns: He / His / Him
 - ⚡ Fun fact: It took me 18 years to be called as a <b>Graduate</B> and just two years of <i>self-study</i> to be called as <b>Employed</b> ;)
 
-<b>Full Proficiency :</b><br>
+<b>Full Proficiency :</b>
 <!-- HTML --><img src="https://img.icons8.com/color/48/000000/html-5.png"/><!-- CSS --><img src="https://img.icons8.com/color/48/000000/css3.png"/><!-- Javascript --><img src="https://img.icons8.com/color/48/000000/javascript.png"/><!-- Nodejs --><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><!-- Postgresql --><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><!-- Bootstrap --><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
-<b>Working Proficiency :</b><br>
+<b>Working Proficiency :</b>
 <!-- C++ --><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><!-- Java --><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><!-- Python --><img src="https://img.icons8.com/color/48/000000/python.png"/> 
 
-<b>Technologies :</b> <br>
+<b>Technologies :</b> 
 <!-- Github --><img src="https://img.icons8.com/color/48/000000/github--v1.png"/><!-- Kubernetes --><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/><!-- Git --><img src="https://img.icons8.com/color/48/000000/git.png"/><!--Intellij IDEA --><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <!-- Pycharm --><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><!-- Figma --><img src="https://img.icons8.com/windows/32/000000/figma.png"/> <!-- Visual Studio --><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> 
