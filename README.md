@@ -7,7 +7,7 @@ Social Media
 - 🔭 I’m currently working on <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 - 👯 I’m looking to collaborate on <b>Web Dev</b>
-- 🤔 I’m looking for help with <img src="https://img.shields.io/badge/Software--Development-<MESSAGE>-#2e4053">
+- 🤔 I’m looking for help with <img src="https://img.shields.io/badge/Software-Development%20-%20%232e4053%20">
 - 💬 Ask me about <b> anything, i will try my best</b>
 - 📫 How to reach me:  <a href="mailto:chaitanya4vedi@gmail.com">chaitanya4vedi@gmail.com</a>
 - 😄 Pronouns: He / His / Him
