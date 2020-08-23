@@ -12,11 +12,11 @@
 - 😄 Pronouns: He / His / Him
 - ⚡ Fun fact: It took me 18 years to be called as a <b>Graduate</B> and just two years of <i>self-study</i> to be called as <b>Employed</b> ;)
 
-<b>Full Proficiency :</b>
+<b>Full Proficiency :</b> <br>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
-<b>Working Proficiency :</b>
+<b>Working Proficiency :</b> <br>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> 
 
-<b>Technologies :</b> 
+<b>Technologies :</b> <br>
 <img src="https://img.icons8.com/color/48/000000/github--v1.png"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img src="https://img.icons8.com/windows/32/000000/figma.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> 
