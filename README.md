@@ -8,7 +8,7 @@ Hi, I am Chaitanya Chaturvedi, a Full Stack Developer from India. I am currently
 <b>Here's to know that</b> <br>
 - 🔭 I’m currently working on <br> <img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/officexs/48/000000/react.png"/>
 
-- 🌱 I’m currently learning <br><img src="https://img.icons8.com/officexs/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/jquery.png"/>
+- 🌱 I’m currently learning <br><img src="https://img.icons8.com/officexs/48/000000/react.png"/> <img src="https://img.icons8.com/officexs/48/000000/jquery.png"/>
 
 - 👯 I’m looking to collaborate on ![N|Solid](https://img.shields.io/badge/Web-Development%20-%20%20brightgreen)
 
