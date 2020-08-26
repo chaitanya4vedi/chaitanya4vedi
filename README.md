@@ -17,7 +17,7 @@ Hi, I am Chaitanya Chaturvedi, a Full Stack Developer from India. I am currently
 - 💬 Ask me about <b> anything, i will try my best</b>
 - 📫 How to reach me:  <a href="mailto:chaitanya4vedi@gmail.com">chaitanya4vedi@gmail.com</a>
 - 😄 Pronouns: He / His / Him
-- ⚡ Fun fact: It took me 18 years of <i>education</i> to be called as a <b>Graduate</B> and just two years of <i>self-study</i> to be called as <b>Employed</b> ;)
+- ⚡ Fun fact: It took me 15 years of <i>education</i> to be called as a <b>Graduate</B> and just two years of <i>self-study</i> to be called as <b>Employed</b> ;)
 
 <b>Full Proficiency :</b> <br>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
