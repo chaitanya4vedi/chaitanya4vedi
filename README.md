@@ -3,6 +3,13 @@
 <a href="https://www.twitter.com/chaitanya4vedi"><img src="https://img.icons8.com/color/40/000000/twitter.png"/></a> <!-- Facebook icon --> <a href="https://www.com/facebook.com/chaitanya4vedi"><img src="https://img.icons8.com/color/40/000000/facebook-new.png"/></a> <!-- Instagram icon --> <a href="https://www.instagram.com/chaitanya4vedi"><img src="https://img.icons8.com/color/40/000000/instagram-new.png"/></a> <!-- Linkedin Icon --> <a href="https://www.linkedin.com/in/chaitanya4vedi"><img src="https://img.icons8.com/color/40/000000/linkedin.png"/></a>
 <br> <b>About Me:</b> <br>
 
+<style>
+  body {
+ background-color:  #2e4053 ;
+  color: white;
+ }
+</style>
+
 Hi, I am Chaitanya Chaturvedi, a Full Stack Developer from India. I am currently a research intern at a small startup based in kolkata. Besides Programming i do poetry and drawing. If not money then probably a macbook and Lofi in the background can keep me stick to the work for as long. 
 
 <br> <b>Here's to know that</b> <br>
