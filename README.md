@@ -1,4 +1,4 @@
-### Hi there 👋 , I am (Chaitanya Chaturvedi)[https://chaitanya4vedi.me] 
+### Hi there 👋 , I am [Chaitanya Chaturvedi](https://chaitanya4vedi.me)
 <!-- Twitter icon -->
 <a href="https://www.twitter.com/chaitanya4vedi"><img src="https://img.icons8.com/ios-filled/40/000000/twitter.png"/></a> <!-- Facebook icon -->  <a href="https://www.com/facebook.com/chaitanya4vedi"><img src="https://img.icons8.com/ios-filled/40/000000/facebook-new.png"/></a> <!-- Instagram icon -->  <a href="https://www.instagram.com/chaitanya4vedi"><img src="https://img.icons8.com/ios-filled/40/000000/instagram-new.png"/></a> <!-- Linkedin Icon -->  <a href="https://www.linkedin.com/in/chaitanya4vedi"><img src="https://img.icons8.com/ios-filled/40/000000/linkedin.png"/></a> <!-- DEV --> <a href="hhtps://www.dev.to/chaitanya4vedi"><img src="https://img.icons8.com/windows/40/000000/dev.png"/></a>
 
