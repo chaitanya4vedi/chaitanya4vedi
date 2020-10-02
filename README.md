@@ -28,3 +28,5 @@ Hi, I am Chaitanya Chaturvedi, a Full Stack Developer from India. I am currently
 
 <b>Technologies :</b> <br>
 <img src="https://img.icons8.com/color/48/000000/github--v1.png"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img src="https://img.icons8.com/windows/32/000000/figma.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> 
+
+![Chaitanya's github stats](https://github-readme-stats.vercel.app/api?username=chaitanya4vedi&theme=default&show_icons=true)
