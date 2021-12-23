@@ -1,32 +1,33 @@
-### Hi there 👋 , I am [Chaitanya](https://chaitanya4vedi.me)
-<!-- Twitter icon -->
-<a href="https://www.twitter.com/chaitanya4vedi"><img src="https://img.icons8.com/ios-filled/40/000000/twitter.png"/></a> <!-- Facebook icon -->  <a href="https://www.com/facebook.com/chaitanya4vedi"><img src="https://img.icons8.com/ios-filled/40/000000/facebook-new.png"/></a> <!-- Instagram icon -->  <a href="https://www.instagram.com/chaitanya4vedi"><img src="https://img.icons8.com/ios-filled/40/000000/instagram-new.png"/></a> <!-- Linkedin Icon -->  <a href="https://www.linkedin.com/in/chaitanya4vedi"><img src="https://img.icons8.com/ios-filled/40/000000/linkedin.png"/></a> <!-- DEV --> <a href="hhtps://www.dev.to/chaitanya4vedi"><img src="https://img.icons8.com/windows/40/000000/dev.png"/></a>
+<div style="text-align: center">
 
-<br> <b>About Me:</b> <br>
+# Hola! I am [Chaitanya](https://chaitanya4vedi.github.io)
 
-Hi, I am Chaitanya Chaturvedi, a Full Stack Developer from India. I am currently a research intern at a small startup based in kolkata. Besides Programming i do poetry and drawing. If not money then probably a macbook and Lofi in the background can keep me stick to the work for as long.<br>  
+Hey there! My name is Chaitanya Chaturvedi. I am a BCA Hons. graduate from University of Burdwan. I love learning new technologies, experimenting with them and building stuff. 
+I am into art, poetry, design, writing and web development.
+If not money, then probably a MacBook, and Lofi in the background can keep me stick to the work for as long.
 
-<b>Here's to know that</b> <br>
-- 🔭 I’m currently working on <br> <img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/officexs/48/000000/react.png"/>
+# Reach out to me -
 
-- 🌱 I’m currently learning <br><img src="https://img.icons8.com/officexs/48/000000/react.png"/> <img src="https://img.icons8.com/ios-filled/48/000000/jquery.png"/>
+<table style="margin-left: auto; margin-right: auto">
+  <tr>
+    <th>For anything Professional</th>
+    <th>For a Quick Chat</th>
+    <th>Read My Blogs</th>
+  </tr>
+  <tr>
+    <td><a href="https://forms.gle/YvMkCVo3nu8VAowP9"><img src="https://img.icons8.com/color/96/000000/google-forms-new-logo-1.png"/></a></td>
+    <td>
+<a href="https://twitter.com/chaitanya4vedi/"><img src="https://img.icons8.com/fluency/96/000000/twitter.png"/></a>
+<a href="https://linkedin.com/in/chaitanya4vedi/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
+<a href="https://instagram.com/chaitanya4vedi/"><img src="https://img.icons8.com/color/96/000000/instagram-new--v1.png"/></a>
+<a href="https://facebook.com/chaitanya4vedi/"><a href="https://twitter.com/chaitanya4vedi/"><img src="https://img.icons8.com/color/96/000000/facebook-new.png"/></a>
+</a>
+</td>
+    <td><a href="https://dev.to/chaitanya4vedi"><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-blogs-digital-content-wanicon-lineal-color-wanicon.png"/></a></td>
 
-- 👯 I’m looking to collaborate on ![N|Solid](https://img.shields.io/badge/Web-Development%20-%20%20brightgreen)
-
-- 🤔 I’m looking for help with ![N|Solid](https://img.shields.io/badge/Software-Development%20-%20%232e4053%20)
-
-- 💬 Ask me about <b> anything, i will try my best</b>
-- 📫 How to reach me:  <a href="mailto:chaitanya4vedi@gmail.com">chaitanya4vedi@gmail.com</a>
-- 😄 Pronouns: He / His / Him
-- ⚡ Fun fact: It took me 15 years of <i>education</i> to be called as a <b>Graduate</B> and just two years of <i>self-study</i> to be called as <b>Employed</b> ;)
-
-<b>Full Proficiency :</b> <br>
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-
-<b>Working Proficiency :</b> <br>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> 
-
-<b>Technologies :</b> <br>
-<img src="https://img.icons8.com/color/48/000000/github--v1.png"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img src="https://img.icons8.com/windows/32/000000/figma.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> 
+  </tr>
+</table>
 
 ![Chaitanya's github stats](https://github-readme-stats.vercel.app/api?username=chaitanya4vedi&theme=default&show_icons=true)
+
+</div>
